@@ -1,0 +1,7 @@
+print("leehalo ameida", end=" :- ")
+print('meu nome é "leticia"')
+print("senai")
+print("fulano \n é meu \"amigo\"")
+print(5+10)
+print("25x10 =", 25*10)
+print("10³=", pow(10,20))
